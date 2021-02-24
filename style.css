@@ -89,12 +89,21 @@
     cursor: pointer;
 }
 .footer{
-    background-color: black;
-    color: rgba(235, 201, 11, 0.822);
+    background-color: rgb(63, 54, 54);
+    color: rgba(235, 202, 11, 0.979);
     font-size: large;
     margin-top: 20px;
 }
 .footer a{
     text-decoration: none;
     color: gold;
+}
+.testimonial{
+    background-color: whitesmoke;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+.newspost{
+    padding: 10px;
 }
